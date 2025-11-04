@@ -33,7 +33,7 @@ This program demonstrates **user input handling**, **basic arithmetic operations
 
 4. **Run the program**:
    ```bash
-   python AverageGradeCalculator.py
+   python Activity_5_DINGLE.py
    ```
 
 ---
